@@ -21,7 +21,9 @@ namespace 冒泡排序
            
             Console.WriteLine();
             Console.WriteLine("排序后的数字顺序:");
-            PrintData(BubbleSort(data));
+            //PrintData(BubbleSort1(data));
+            //PrintData(BubbleSort2(data));
+            //PrintData(BubbleSort3(data));
             Console.ReadKey();
 
         }

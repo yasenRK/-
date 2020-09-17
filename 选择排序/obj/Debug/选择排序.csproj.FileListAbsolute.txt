@@ -1,0 +1,7 @@
+D:\Algorithm\排序算法\选择排序\bin\Debug\选择排序.exe.config
+D:\Algorithm\排序算法\选择排序\bin\Debug\选择排序.exe
+D:\Algorithm\排序算法\选择排序\bin\Debug\选择排序.pdb
+D:\Algorithm\排序算法\选择排序\obj\Debug\选择排序.csprojAssemblyReference.cache
+D:\Algorithm\排序算法\选择排序\obj\Debug\选择排序.csproj.CoreCompileInputs.cache
+D:\Algorithm\排序算法\选择排序\obj\Debug\选择排序.exe
+D:\Algorithm\排序算法\选择排序\obj\Debug\选择排序.pdb
