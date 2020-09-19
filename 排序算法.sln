@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "选择排序", "选择排�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "插入排序", "插入排序\插入排序.csproj", "{E47EF55E-C7B0-4776-BA99-8355C3BD8F38}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "二分搜索", "二分搜索\二分搜索.csproj", "{E757CBC4-961B-4F6D-ADF0-9EEA52A6BAAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{E47EF55E-C7B0-4776-BA99-8355C3BD8F38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E47EF55E-C7B0-4776-BA99-8355C3BD8F38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E47EF55E-C7B0-4776-BA99-8355C3BD8F38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E757CBC4-961B-4F6D-ADF0-9EEA52A6BAAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E757CBC4-961B-4F6D-ADF0-9EEA52A6BAAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E757CBC4-961B-4F6D-ADF0-9EEA52A6BAAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E757CBC4-961B-4F6D-ADF0-9EEA52A6BAAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

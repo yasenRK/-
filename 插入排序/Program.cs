@@ -7,10 +7,10 @@ namespace 插入排序
         static void Main(string[] args)
         {
             // 准备排序的数组
-            int[] data = new int[100000];
+            int[] data = new int[1000];
             Random random = new Random();
             int counter = 0;
-            while (counter < 100000)
+            while (counter < 1000)
             {
                 int temp = random.Next(0, 100000);
                 data[counter] = temp;
@@ -41,24 +41,12 @@ namespace 插入排序
             {
                 int index = begin;
                 int tmp = data[begin];
-                while(index>0)
+                while(index>0 && data[index-1]>tmp)
                 {
-                    // 从数组的头位置开始找比tmp大的元素记为targetData
-                    // 把targetData到tmp之间的元素都往后退一个位置
-                    for (int i = 0; i < index; i++)
-                    {
-                        if(data[i]>tmp)
-                        {
-                                // 把j 放在j+1
-                            for (int j = index-1; j>i; j--)
-                            {
-                                data[j + 1] = data[j];
-                            }
-                        }
-                    }
-
+                    data[index] = data[index - 1];
                     index--;
                 }
+                data[index] = tmp;
 
             }
             watch.Stop();
