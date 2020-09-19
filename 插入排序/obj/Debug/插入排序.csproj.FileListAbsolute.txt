@@ -1,0 +1,7 @@
+D:\Algorithm\排序算法\插入排序\bin\Debug\插入排序.exe.config
+D:\Algorithm\排序算法\插入排序\bin\Debug\插入排序.exe
+D:\Algorithm\排序算法\插入排序\bin\Debug\插入排序.pdb
+D:\Algorithm\排序算法\插入排序\obj\Debug\插入排序.csprojAssemblyReference.cache
+D:\Algorithm\排序算法\插入排序\obj\Debug\插入排序.csproj.CoreCompileInputs.cache
+D:\Algorithm\排序算法\插入排序\obj\Debug\插入排序.exe
+D:\Algorithm\排序算法\插入排序\obj\Debug\插入排序.pdb
